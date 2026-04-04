@@ -38,7 +38,6 @@ To develop an interactive Placement Analytics Dashboard to evaluate student plac
   * Source:  Institutional placement dataset (simulated academic dataset)
   * Data Type:  Structured student-level records
   * Time Period:  Academic Year 2025–26
-
 ### **Data Structure & Metrics:** 
    * Key Index Type: Student-level unique ID
    * Total Rows: 215
