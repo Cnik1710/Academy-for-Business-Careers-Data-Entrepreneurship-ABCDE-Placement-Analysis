@@ -86,7 +86,6 @@ To develop an interactive Placement Analytics Dashboard to evaluate student plac
    * Used Donut Chart for gender distribution
    * Applied Bar & Clustered Charts for specialization and salary insights
    * Implemented Interactive slicers for dynamic filtering
-
  * **Validation & Formatting:**
    * Verified KPI calculations against raw totals
    * Applied consistent dashboard theme and formatting
@@ -95,19 +94,13 @@ To develop an interactive Placement Analytics Dashboard to evaluate student plac
 ---
  
 ## ❓ Problem Statements
-College often collect detailed placement data, but it remains **scattered and underutilized**, leading to limited visibility into placement performance, salary trends, and academic correlations.
-Without consolidated insights, it becomes difficult to identify performance gaps or guide students effectively.  
-
-
 Institutions collect placement data but often lack a centralized analytical dashboard to evaluate performance drivers in a structured manner.
-
 This results in limited visibility into:
    * Overall placement efficiency and conversion rates
    * Degree-wise placement contribution and disparities
    * Specialization-level performance differences
    * Gender-based salary variations
    * Academic background impact on salary outcomes
-
 
 ### Key Questions:
    *  What is the overall placement rate of the college?  
