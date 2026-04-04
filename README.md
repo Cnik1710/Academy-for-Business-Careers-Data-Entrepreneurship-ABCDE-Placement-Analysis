@@ -162,7 +162,7 @@ The placement analysis of Academy for Business Careers, Data & Entrepreneurship 
 ---
  
 ## 🖥️ Dashboard Overview
-![image alt]()
+![image alt](https://github.com/Cnik1710/Academy-for-Business-Careers-Data-Entrepreneurship-ABCDE-Placement-Analysis/blob/e1014362014fc2e85f4311d5cc15bdbfe0198f0a/04.%20Academy%20for%20Business%20Careers%2C%20Data%20%26%20Entrepreneurship%20(ABCDE)%20-%20Placement%20Analysis%20Dashboard.png)
 
 ---
  
