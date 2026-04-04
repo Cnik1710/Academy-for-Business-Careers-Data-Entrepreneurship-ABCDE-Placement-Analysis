@@ -25,8 +25,6 @@ To develop an interactive Placement Analytics Dashboard to evaluate student plac
    * Assessed demographics – gender, work experience
    * Examined placement status and salary outcomes
    * Demonstrates how data analytics empowers institutional decisions to optimize placement strategies and student       performance evaluation.
-
-
    * Built an interactive Placement Analytics Dashboard using Power BI.	Key insights derived on:
      * Key insights derived on:
        * Overall placement rate and salary distribution
@@ -59,18 +57,15 @@ To develop an interactive Placement Analytics Dashboard to evaluate student plac
 ### **Tools:**
    * **Excel**
       * Data cleaning & preprocessing
-   
    * **Power Query**
       * Data Transformation & Shaping
       * Column Standardization
       * Data Preparation for BI Integration
-   
    * **Power BI**  
       * Dashboard & Visualization
       * Data Modeling & Relationship Building
       * DAX (DAX – KPI Calculations Columns & Measures)
       * Slicers & Dynamic Filtering
-
    * **PowerPoint**
       * Presentation and final dashboard snapshots
 ---
