@@ -175,9 +175,9 @@ The placement analysis of Academy for Business Careers, Data & Entrepreneurship 
      * Optimize recruitment strategy and hiring pipelines
 ---
  
- ## 🙏 Acknowledgements & Contact 
- ### Project Analyst: Anik Chakraborty	
+## 🙏 Acknowledgements & Contact 
+### Project Analyst: Anik Chakraborty	
    📧 Email: anikc1710@gmail.com  
- ### Special Thanks To: 
-  * Coding Ninjas – for project framework and guidance  
+### Special Thanks To: 
+   * Coding Ninjas – for project framework and guidance  
    
