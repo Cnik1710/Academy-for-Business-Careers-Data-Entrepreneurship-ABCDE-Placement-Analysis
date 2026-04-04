@@ -1,4 +1,4 @@
-# Allen Brook College of Data Engineering (ABCDE) - Placement Analysis
+# Academy for Business Careers, Data & Entrepreneurship (ABCDE) - Placement Analysis
 ## 🎯 Objective
 To develop an interactive Placement Analytics Dashboard to analyze placement performance and key salary drivers for **Allen Brook College of Data & Engineering (ABCDE)**.
 ### **Project Purpose:**
