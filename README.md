@@ -35,9 +35,9 @@ To develop an interactive Placement Analytics Dashboard to evaluate student plac
  
 ## 🗂️ Data Overview & Schema     
 ### **Data Source:**  
-  * Source:  Institutional placement dataset (simulated academic dataset)
-  * Data Type:  Structured student-level records
-  * Time Period:  Academic Year 2025–26
+   * Source:  Institutional placement dataset (simulated academic dataset)
+   * Data Type:  Structured student-level records
+   * Time Period:  Academic Year 2025–26
 ### **Data Structure & Metrics:** 
    * Key Index Type: Student-level unique ID
    * Total Rows: 215
@@ -71,26 +71,25 @@ To develop an interactive Placement Analytics Dashboard to evaluate student plac
         
 ## 📈 Methodology & Analysis  
 ### **Preparation, Process & Analytical Approach:** 
- * **Data Preparation & Cleaning:**
-   * Removed missing and inconsistent values 
-   * Standardized categorical fields
-   * Validated salary and placement records
- * **Data Modeling & Integration:**
-   * Built an optimized data model
-   * Established relationships between academic and placement dimensions
-* **Feature Engineering:**
-   * Created placement_flag metric
-   * Derived Placement Rate %
-* **Visualization Design:**
-   * Designed KPI Cards for summary metrics
-   * Used Donut Chart for gender distribution
-   * Applied Bar & Clustered Charts for specialization and salary insights
-   * Implemented Interactive slicers for dynamic filtering
- * **Validation & Formatting:**
-   * Verified KPI calculations against raw totals
-   * Applied consistent dashboard theme and formatting
-   * Optimized layout for executive readability
-
+   * **Data Preparation & Cleaning:**
+       * Removed missing and inconsistent values 
+       * Standardized categorical fields
+       * Validated salary and placement records
+   * **Data Modeling & Integration:**
+       * Built an optimized data model
+       * Established relationships between academic and placement dimensions
+   * **Feature Engineering:**
+       * Created placement_flag metric
+       * Derived Placement Rate %
+   * **Visualization Design:**
+       * Designed KPI Cards for summary metrics
+       * Used Donut Chart for gender distribution
+       * Applied Bar & Clustered Charts for specialization and salary insights
+       * Implemented Interactive slicers for dynamic filtering
+   * **Validation & Formatting:**
+       * Verified KPI calculations against raw totals
+       * Applied consistent dashboard theme and formatting
+       * Optimized layout for executive readability
 ---
  
 ## ❓ Problem Statements
@@ -154,31 +153,31 @@ The placement analysis of Academy for Business Careers, Data & Entrepreneurship 
 ---
  
 ## ✅ Business Impact & Use Cases   
-* **College Administration & Management:**
-  * Leverage placement analytics to evaluate program-level performance
-  * Identify academic strengths and gap areas
-  * Plan strategic improvements in curriculum and training initiatives
-* **Training & Placement Cell:**
-  * Monitor placement trends and conversion rates
-  * Target underperforming student segments and specializations
-  * Strengthen industry partnerships through data-backed reporting
-* **Faculty & Academic Departments:**
-  * Understand how degree type and specialization influence placement outcomes
-  * Align curriculum with high-performing academic domains
-  * Guide mentorship using performance-based insights  
-* **Students & Career Advisors:**
-  * Understand how specialization, and academic background impact salary outcomes
-  * Make informed decisions about career focus and skill development
-  * Set realistic expectations regarding placement and compensation trends
-* **Recruiters & Industry Partners:**
-  * Identify high-performing academic segments
-  * Access data-backed insights on student quality and specialization strengths
-  * Optimize recruitment strategy and hiring pipelines
+  * **College Administration & Management:**
+      * Leverage placement analytics to evaluate program-level performance
+      * Identify academic strengths and gap areas
+      * Plan strategic improvements in curriculum and training initiatives
+  * **Training & Placement Cell:**
+      * Monitor placement trends and conversion rates
+      * Target underperforming student segments and specializations
+      * Strengthen industry partnerships through data-backed reporting
+  * **Faculty & Academic Departments:**
+      * Understand how degree type and specialization influence placement outcomes
+      * Align curriculum with high-performing academic domains
+      * Guide mentorship using performance-based insights  
+  * **Students & Career Advisors:**
+     * Understand how specialization, and academic background impact salary outcomes
+     * Make informed decisions about career focus and skill development
+     * Set realistic expectations regarding placement and compensation trends
+  * **Recruiters & Industry Partners:**
+     * Identify high-performing academic segments
+     * Access data-backed insights on student quality and specialization strengths
+     * Optimize recruitment strategy and hiring pipelines
 ---
  
  ## 🙏 Acknowledgements & Contact 
  ### Project Analyst: Anik Chakraborty	
    📧 Email: anikc1710@gmail.com  
  ### Special Thanks To: 
- * Coding Ninjas – for project framework and guidance  
+  * Coding Ninjas – for project framework and guidance  
    
