@@ -158,18 +158,22 @@ The placement analysis of Academy for Business Careers, Data & Entrepreneurship 
       * Leverage placement analytics to evaluate program-level performance
       * Identify academic strengths and gap areas
       * Plan strategic improvements in curriculum and training initiatives
+ 
   * **Training & Placement Cell:**
       * Monitor placement trends and conversion rates
       * Target underperforming student segments and specializations
       * Strengthen industry partnerships through data-backed reporting
+  
   * **Faculty & Academic Departments:**
       * Understand how degree type and specialization influence placement outcomes
       * Align curriculum with high-performing academic domains
       * Guide mentorship using performance-based insights  
+  
   * **Students & Career Advisors:**
      * Understand how specialization, and academic background impact salary outcomes
      * Make informed decisions about career focus and skill development
      * Set realistic expectations regarding placement and compensation trends
+ 
   * **Recruiters & Industry Partners:**
      * Identify high-performing academic segments
      * Access data-backed insights on student quality and specialization strengths
